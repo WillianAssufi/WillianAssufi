@@ -17,12 +17,11 @@ Estudante de Analise e Desenvolvimento de Sistemas
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
+  <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="60" width="60" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/python.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/linux.png">
   <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/windows-logo.png">
-  <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
-  <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
