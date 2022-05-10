@@ -28,7 +28,6 @@ Estudante de Analise e Desenvolvimento de Sistemas
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
-  <img align="center" height="25" width="25" src="https://img.icons8.com/emoji/96/000000/construction-emoji.png">
   <img align="right"  height="200" style="border-radius:50px;" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png">
   
   
