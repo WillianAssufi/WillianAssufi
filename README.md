@@ -1,4 +1,4 @@
-<div align="left"><strong><h1>
+<div align="left"><strong><h2>
 Estudante de Analise e Desenvolvimento de Sistemas
 </div>
 <div align="left">
