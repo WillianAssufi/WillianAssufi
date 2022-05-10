@@ -9,11 +9,13 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://icon-library.com/icon/dev-icon-6.html.html">
+  <img align="center" height="60" width="60" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/python.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/linux.png">
+  <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/64/000000/windows-logo.png">
+  <img align="right"  height="200" style="border-radius:50px;" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png">
+  
+  
 </div>
   
   ##
