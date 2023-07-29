@@ -1,5 +1,5 @@
 <div align="left"><strong><h1>
-Estudante de Analise e Desenvolvimento de Sistemas
+Formado em Análise e Desenvolvimento de Sistemas
 </div>
 <div align="left">
   <a href="https://github.com/WillianAssufi">
